@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning and a successful career </h1>
-   <h2> Deploying on a container using ansible and docker on Jenkins </h2>
+   <h2> Deploying on a container! </h2>
 
   
 </form>

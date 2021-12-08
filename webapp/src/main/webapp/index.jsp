@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning and a successful career </h1>
-   <h2> Deploying on a VM container using ansible </h2>
+   <h2> Deploying on a tomcat container using ansible </h2>
    <h3> Deploying on Dockerhub and tomcat using ansible was a success </h3>
 
   
